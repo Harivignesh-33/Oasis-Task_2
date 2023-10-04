@@ -1,0 +1,52 @@
+body {
+    background-color: #CFD8DC;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.item {
+    padding: 40px;
+}
+
+.row {
+    margin: 20px;
+}
+
+.carousel-control {
+    background: #607D8B;
+}
+
+.carousel-inner {
+    background: #90A4AE;
+}
+
+.header {
+    background: #607D8B;
+}
+
+.btn-default {
+    background: #B0BEC5 !important;
+}
+
+.btn-secondary {
+    background: #B0BEC5;
+}
+
+.btn:hover {
+    background: #B0BEC5;
+    text-decoration: none;
+}
+
+.awards{
+    padding:10px;
+}
+.table-hover>tbody>tr:hover {
+background:#B0BEC5 !important;
+}
+a.left.carousel-control, a.right.carousel-control {
+        width: 40px;
+        }
